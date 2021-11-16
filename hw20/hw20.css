@@ -1,0 +1,9 @@
+.jumbotron{
+    background-image: url("https://cdn.pixabay.com/photo/2018/02/22/14/55/desktop-3173176_960_720.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.bd-example{
+    height: 100px;
+}
